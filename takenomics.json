@@ -77,18 +77,8 @@
       "notes": "Growth marketing, user acquisition, AMAs, and partnership campaigns."
     }
   ],
-  "summary": {
-    "notes": "Private Sale allocation removed and redistributed to strengthen Team, Advisors, Ecosystem, and Airdrop pools. Vesting remains for team and advisors to ensure alignment.",
-    "rationaleHighlights": [
-      "Airdrop (17%) to reward early adopters and expand community.",
-      "Ecosystem & Growth (20%) to fuel developer and partner incentives.",
-      "Team (13%) with multi-year vesting to retain contributors.",
-      "Liquidity (10%) and Staking (15%) to ensure trading and engagement stability."
-    ]
-  },
   "files": {
     "filename": "tokenomics.json",
     "generatedAt": "2025-10-05"
   }
-    }
-    
+}
